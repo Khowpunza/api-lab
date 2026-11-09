@@ -27,6 +27,7 @@ pip install -r requirements.txt
 
 #run the test
 pytest -v
+```
 
 ### Input Domain Model: POST /api/ratings
 | Characteristic | Blocks | Values in the tests | Test Name Covering Block |
